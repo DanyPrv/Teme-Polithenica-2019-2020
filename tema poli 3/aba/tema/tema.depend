@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1585860540 source:c:\users\daniel\desktop\teme poli\tema poli 3\aba\tema\test.c
+	<stdio.h>
+	<stdlib.h>
+	"WearhouseManager.h"
+
+1584913280 c:\users\daniel\desktop\teme poli\tema poli 3\aba\tema\wearhousemanager.h
+	<stdlib.h>
+	<string.h>
+
+1585860959 source:c:\users\daniel\desktop\teme poli\tema poli 3\aba\tema\wearhousemanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"WearhouseManager.h"
+
+1585670969 source:c:\users\daniel\desktop\teme poli\tema poli 3\aba\tema\app.c
+	<stdio.h>
+	"WearhouseManager.h"
+

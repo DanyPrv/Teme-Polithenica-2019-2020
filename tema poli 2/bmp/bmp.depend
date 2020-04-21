@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578607751 source:c:\users\daniel\desktop\tema poli 2\bmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bmp_header.h"
+	<string.h>
+
+1578573657 c:\users\daniel\desktop\tema poli 2\bmp\bmp_header.h
+

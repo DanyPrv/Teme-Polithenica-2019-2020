@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575544785 source:c:\users\daniel\desktop\tema\t1\tema2.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"util/task_helper.h"
+
+1574588913 c:\users\daniel\desktop\tema\t1\util\task_helper.h
+
